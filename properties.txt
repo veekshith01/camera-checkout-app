@@ -1,4 +1,0 @@
-class1:calculator
-class2:notes book
-class3:pen
-class4:perfume
